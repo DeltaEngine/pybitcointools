@@ -1,10 +1,13 @@
 While this library is not longer maintained by the original creator, it still can be used and is probably one of the most used and easiest way to access any bitcoin based cryptocurrency via rpc. This repo was forked to test for Dash 0.13 compatibility (which introduces special transactions, you can read them via this old library as well). Most python users will just take useful parts or roll their own rpc communication.
 
 Install:
-    > pip install cryptos
-    > pip install -r requirements.txt
+```
+python setup.py install
+```
 Test:
-    > python test_dash.py
+```
+python test_dash.py
+```
 
 -------------------------
 

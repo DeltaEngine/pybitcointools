@@ -12,7 +12,7 @@ class Dash(BaseCoin):
     explorer = dash_siampm
     testnet_overrides = {
         'display_name': "Dash Testnet",
-        'coin_symbol': "DASHTEST",
+        'coin_symbol': "tDASH",
         'magicbyte': 140,
         'script_magicbyte': 19,
         'hd_path': 1,
