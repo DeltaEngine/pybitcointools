@@ -2,7 +2,7 @@ from . import base_insight as insight
 
 def get_url(coin_symbol):
     if coin_symbol == "DASH":
-        return "https://insight.dash.siampm.com/api"
+        return "https://insight.dash.org/insight-api-dash"
     return "https://test.insight.dash.siampm.com/api"
 
 def unspent(*args, coin_symbol="DASH"):
