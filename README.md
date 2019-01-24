@@ -1,3 +1,7 @@
+While this library is not longer maintained by the original creator, it still can be used and is probably one of the most used and easiest way to access any bitcoin based cryptocurrency via rpc. This repo was forked to test for Dash 0.13 compatibility (which introduces special transactions, you can read them via this old library as well). Most python users will just take useful parts or roll their own rpc communication.
+
+-------------------------
+
 REPOSITORY HAS BEEN ARCHIVED AND IS NO LONGER MAINTAINED FOR NOW
 
 # Pycryptotools, Python library for Crypto coins signatures and transactions
